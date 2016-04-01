@@ -1,0 +1,20 @@
+.camera_wrap {
+	display: none;
+	float: left;
+	position: relative;
+	z-index: -1;
+}
+.camera_wrap img {
+	max-width: none!important;
+}
+.camera_wrap {
+	width: 100%;
+}
+}
+.camera_wrap .camera_pag .camera_pag_ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align:center;
+}
+

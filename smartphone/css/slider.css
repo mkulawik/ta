@@ -1,0 +1,13 @@
+.camera_wrap {
+	display: none;
+	float: left;
+	position: relative;
+	z-index: -1;
+}
+.camera_wrap img {
+	max-width: none!important;
+}
+.camera_wrap {
+	width: 100%;
+}
+

@@ -1,0 +1,37 @@
+# Dumped by SpYShell.SQL KingDefacer
+# Ana Sayfa: http://www.spyhackerz.com/
+# Host ayarlari:
+# MySQL versiyon: (5.5.44-0+deb8u1) Su an calisan 50.116.9.70 (www.fadviews.com)
+# Tarih: 07.12.2015 10:51:21
+# DB: "voiceactor"
+#---------------------------------------------------------
+Ekle Table , exits `actors`;
+Ekle Table , exits `actors2`;
+Ekle Table , exits `actors_bak`;
+Ekle Table , exits `bd`;
+Ekle Table , exits `bdgame`;
+Ekle Table , exits `characters`;
+Ekle Table , exits `chars_bak`;
+Ekle Table , exits `gifts`;
+Ekle Table , exits `members`;
+Ekle Table , exits `movies`;
+Ekle Table , exits `movies_bak`;
+Ekle Table , exits `photos`;
+Ekle Table , exits `rating`;
+Ekle Table , exits `shows`;
+Ekle Table , exits `trailers`;
+Ekle Table , exits `videos`;
+Ekle Table , exits `wp1_commentmeta`;
+Ekle Table , exits `wp1_comments`;
+Ekle Table , exits `wp1_links`;
+Ekle Table , exits `wp1_options`;
+Ekle Table , exits `wp1_postmeta`;
+Ekle Table , exits `wp1_posts`;
+Ekle Table , exits `wp1_term_relationships`;
+Ekle Table , exits `wp1_term_taxonomy`;
+Ekle Table , exits `wp1_terms`;
+Ekle Table , exits `wp1_usermeta`;
+Ekle Table , exits `wp1_users`;
+Ekle Table , exits `yaynay`;
+#---------------------------------------------------------------------------------
+
