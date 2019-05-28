@@ -1,24 +1,23 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "hash": "1c3c26254e03da4457dfbb68c9bf15ad",
     "content-hash": "07801b3779b0eb41063edbbb07d8af9c",
     "packages": [
         {
             "name": "cviebrock/discourse-php",
-            "version": "0.9.1",
+            "version": "0.9.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cviebrock/discourse-php.git",
-                "reference": "c18670ee8558f790dba3148367fceb811daf1f33"
+                "reference": "9a56e2afec067ee7441663eb82db3d4446c25bc2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cviebrock/discourse-php/zipball/c18670ee8558f790dba3148367fceb811daf1f33",
-                "reference": "c18670ee8558f790dba3148367fceb811daf1f33",
+                "url": "https://api.github.com/repos/cviebrock/discourse-php/zipball/9a56e2afec067ee7441663eb82db3d4446c25bc2",
+                "reference": "9a56e2afec067ee7441663eb82db3d4446c25bc2",
                 "shasum": ""
             },
             "require": {
@@ -40,7 +39,8 @@
                     "email": "colin@viebrock.ca"
                 },
                 {
-                    "name": "Johan Jatko"
+                    "name": "Johan Jatko",
+                    "homepage": "https://xr.gs/"
                 }
             ],
             "description": "Helper class for building a single sign-on source for Discourse forums",
@@ -49,7 +49,7 @@
                 "discourse",
                 "forum"
             ],
-            "time": "2015-01-20 20:20:30"
+            "time": "2017-07-07T16:02:16+00:00"
         }
     ],
     "packages-dev": [],
